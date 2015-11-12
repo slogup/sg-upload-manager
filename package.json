@@ -1,10 +1,10 @@
 {
   "name": "sg-upload-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sg-upload-manager for node.js",
   "keywords": [],
-  "author": "hwaranglee <dev@slogup.com>",
-  "repository": { "type": "git", "url": "git://github.com/slogup/sg-upload-manager.git" },
+  "author": "hwaranglee <ceo@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/teamslogup/sg-upload-manager.git" },
   "dependencies": {
     "formidable": "*",
     "async": "*"
